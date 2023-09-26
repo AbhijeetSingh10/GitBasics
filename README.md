@@ -1,2 +1,4 @@
 # GitBasics
-My first git repository.
+My first git repository. 
+It is interesting.
+Author: Abhijeet
